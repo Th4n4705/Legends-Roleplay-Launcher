@@ -1,7 +1,6 @@
 # Legends-Roleplay-Launcher
 a launcher for a RolePlay server that launch the ts server and also the serve on FiveM. with other features to discover
 
-# Welcome to the Legends-Roleplay-Launcher wiki!
 
 ![INTERFACE 1](https://i.ibb.co/2dp8qKC/FACE1-TUTO.png)
 ### INTERFACE 1
