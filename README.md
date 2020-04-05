@@ -17,7 +17,7 @@ It's redirect you to the legends roleplay wiki where you can find different info
 
 **3> GET IP**
 
-It's the button the show you your ip address and also copied it, so you just need to past it on the discord bot that white-list your ip
+It's the button that show you your ip address and also copied it, so you just need to past it on the discord bot that white-list your ip
 
 **4> TEAMSPEAK 3 CONNECT**
 
