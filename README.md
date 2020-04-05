@@ -33,5 +33,5 @@ If you search for the discord sever you can find the invite here
 
 **7> The LOGO OF LEGENDS ROLEPLAY**
 
-This Logo is clickable and you can use it to return to return to the first interface
+This Logo is clickable so you can use it to return to return to the first interface
 
