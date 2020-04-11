@@ -6,7 +6,7 @@ a launcher for a RolePlay server that launch the ts server and also the serve on
 ### INTERFACE 1
 ![INTERFACE 1](https://i.ibb.co/Db8CRqw/1.png)
 
-**1- 𝗝𝗢𝗜𝗡 𝗦𝗘𝗥𝗩𝗘𝗥**
+**1- JOIN SERVER**
 
 ● It's the button that redirect you to the second interface where you can connect to different server types!
 
