@@ -2,10 +2,9 @@
 a launcher for a RolePlay server that launch the ts server and also the serve on FiveM. with other features to discover
 
 
-![INTERFACE 1](https://i.ibb.co/2dp8qKC/FACE1-TUTO.png)
+
 ### INTERFACE 1
-![INTERFACE 2](https://i.ibb.co/ggJHVc4/FACE2-TUTO.png)
-### INTERFACE 2
+![INTERFACE 1](https://i.ibb.co/Db8CRqw/1.png)
 
 **1> JOIN SERVER**
 
@@ -15,23 +14,39 @@ It's the button that redirect you to the second interface where you can connect 
 
 It's redirect you to the legends roleplay wiki where you can find different information about the LEGENDS ROLEPLAY and also the rules of the rp server
 
-**3> GET IP**
 
-It's the button that show you your ip address and also copied it, so you just need to past it on the discord bot that white-list your ip
+### INTERFACE 2
+![INTERFACE 2](https://i.ibb.co/sKYPJKN/2.png)
+
+**3> Roleplay fullname and job**
+
+It's a textblocks that show you your roleplay name and job, it s an indicator that the whitelisting is done successfully, if not then restart the application.
 
 **4> TEAMSPEAK 3 CONNECT**
 
-It's launch the ts3 and connect you directly to the legends ts server
+It's launch the ts3 and connect you directly to the legends ts server.
 
 **5> FIVEM CONNECT**
 
 It's launch the FiveM and connect you directly to the legends FiveM server
 
-**6> DISCORD CONNECT**
+**6> NUMBER OF CONNECTED PEOPLE**
 
-If you search for the discord sever you can find the invite here
+It's a textblock that refreshed every 30 seconds and show you the number of the connected people to the fivem server. you can also clicked it if you want to refresh the information instantly.
 
-**7> The LOGO OF LEGENDS ROLEPLAY**
+### INTERFACE 3
+![INTERFACE 3](https://i.ibb.co/gZQDhhV/3.png)
 
-This Logo is clickable so you can use it to return to return to the first interface
+this interface shown when the launcher detect that the steam application is not running.
 
+**7> STEAM BUTTON**
+
+This button is for launching steam application.
+
+### INTERFACE 4 OR 5
+![INTERFACE 4](https://i.ibb.co/S05cpTk/4.png)
+![INTERFACE 5](https://i.ibb.co/gP7GLjY/5.png)
+
+**8/9> DISCORD CONNECT**
+
+you can find the invitation of the server in this button to discuss with the support .. you are not whitelisted or you are using a vpn that is prohibited
